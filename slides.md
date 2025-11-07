@@ -17,6 +17,19 @@ layout: cover
 # Programmieren mit dem Raspbery Pi Pico
 FabLab Ansbach e.V. in Kooperation mit dem Gründerzentrum ANsWERK, November 2025
 
+---
+layout: image
+image: ./images/fablab_logo.svg
+background-size: 30em
+---
+# Das FabLab
+
+---
+layout: image
+image: ./images/ANsWERK_Logo.png
+background-size: 30em
+---
+# Das ANsWERK
 
 ---
 layout: image-right
