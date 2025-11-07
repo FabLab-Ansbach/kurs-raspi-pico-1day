@@ -1,11 +1,13 @@
-# Welcome to [Slidev](https://github.com/slidevjs/slidev)!
+# Code Week 2025 - Rasperry Pi Pico
 
-To start the slide show:
+Eintägiger Kurs zum Raspberry Pi Pico, dim Rahmen der Code Week 2025.
 
-- `pnpm install`
-- `pnpm dev`
-- visit <http://localhost:3030>
+Der Microcontroller wird mit [Piper Make](https://make.playpiper.com) im Kreativmodus programmiert. Dafür ist ein Browser mit WebSerial sowie eine Internet-Verbindung erforderlich.
 
-Edit the [slides.md](./slides.md) to see the changes.
+## Contributing
 
-Learn more about Slidev at the [documentation](https://sli.dev/).
+PRs sind möglich, die Folien sind aber hauptsächlich auf die interne Verwendung im FabLab Ansbach ausgelegt.
+
+Fragen, Anmerkungen, Beschwerden oder Kuchenrezepte an [info@fablab-ansbach.de](mailto:info@fablab-ansbach.de)
+
+Slides created with [SliDev (Slides for Developers)](https://sli.dev)

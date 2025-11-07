@@ -378,11 +378,11 @@ layout: section
 
 <br/>
 
-## Kilian hat sein Fahrrad endlich aus dem Treppenhaus entfernt, aber die Ampel ist kaputt.
+### Kilian hat sein Fahrrad endlich aus dem Treppenhaus entfernt und fährt damit, aber die Ampel ist kaputt.
 
 <br/>
 
-## Wir müssen eine neue Steuerung bauen.
+### -> Wir müssen eine neue Steuerung bauen.
 
 ---
 layout: default
